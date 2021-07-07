@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto Slab', serif;
+   
+}
+h1{
+    font-size: 50px;
+}
+.navy-color{
+    color: navy;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%
+}
+.half-width img{
+    width: 80%;
+}
+    
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, lightblue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    }
+    .Other-stuffs{
+        background-image: url(images/shapes/Frame\ 59.jpg
+        );
+        }
+      footer h1{
+          margin-left: 400px;
+          padding-inline: 20px;
+      }
+      
+      footer h1{
+          margin: 40px;
+              }
+     footer h3{
+        text-align:center;
+        text-shadow: darkslategray;
+     }
+     .diff-color{
+        font-display: bold;
+         color: red;
+     }
+     footer p {
+         text-align: center;
+         text-decoration: darkslategrey;
+     }
